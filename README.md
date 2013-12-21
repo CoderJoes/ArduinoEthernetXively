@@ -1,4 +1,3 @@
-Tutorial:
 Arduino, Ethernet Shield, and Xively
 =====================
 
